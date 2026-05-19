@@ -9,7 +9,7 @@ description = "Trading signal prediction pipeline using technical indicators, LL
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.10"
-authors = [{name = "Roman", email = ""}]
+authors = [{name = "Vagif", email = ""}]
 
 dependencies = [
     "yfinance>=0.2.31",
